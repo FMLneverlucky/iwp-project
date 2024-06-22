@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-test_again.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.gen.cpp.obj"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\test_again.init.gen.cpp.obj"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\test_again.cpp.obj"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.cpp.obj"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\Default.rc2.res"
+/OUT:"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\UnrealEditor-test_again.lib"
