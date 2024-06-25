@@ -2865,3 +2865,703 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.25-08.14.33:462][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 3.27 sec)
 [2024.06.25-08.14.33:471][244]AssetCheck: New page: Asset Save: BP_Weapon_Component
 [2024.06.25-08.14.33:471][244]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.06.25-08.25.06:887][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.25-08.25.07:405][352]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.06.25-08.25.07:410][352]LogSavePackage: Moving '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Saved/BP_Weapon_Component3D89A8604328A53EC5F743B788DA57B5.tmp' to '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.06.25-08.25.07:486][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 599 ms (total: 3.87 sec)
+[2024.06.25-08.25.07:501][352]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.06.25-08.25.07:501][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.06.25-08.25.07:808][357]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.06.25-08.25.07:912][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.06.25-08.26.43:194][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.25-08.26.43:686][226]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.06.25-08.26.43:691][226]LogSavePackage: Moving '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Saved/BP_Weapon_ComponentDC3F941B4C1BAC4281490BBE213F299F.tmp' to '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.06.25-08.26.43:765][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 571 ms (total: 4.44 sec)
+[2024.06.25-08.26.43:771][226]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.06.25-08.26.43:771][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.06.25-08.26.44:100][231]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.06.25-08.26.44:203][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.06.25-08.26.47:018][281]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.25-08.26.47:044][281]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.25-08.26.47:044][281]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.25-08.26.47:050][281]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6 ms (total: 78 ms)
+[2024.06.25-08.26.47:051][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.25-08.26.47:051][281]PIE: New page: PIE session: FirstPersonMap (26 Jun 2024, 12:26:47 am)
+[2024.06.25-08.26.47:051][281]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.25-08.26.47:065][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013881s)
+[2024.06.25-08.26.47:065][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.013957s)
+[2024.06.25-08.26.47:098][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.06.25-08.26.47:101][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.25-08.26.47:101][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.25-08.26.47:102][281]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.25-08.26.47:104][281]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.25-08.26.47:104][281]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.25-08.26.47:104][281]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.25-08.26.47:104][281]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.25-08.26.47:108][281]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.06.25-08.26.47:108][281]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 255 ms)
+[2024.06.25-08.26.47:108][281]LogPlayLevel: PIE: World Init took: (0.008132s)
+[2024.06.25-08.26.47:108][281]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.25-08.26.47:108][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.25-08.26.47:109][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.25-08.26.47:109][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.25-08.26.47:110][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.25-08.26.47:110][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.25-08.26.47:110][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.25-08.26.47:113][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.25-08.26.47:160][281]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jabra Elite 4 Active)
+[2024.06.25-08.26.47:161][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.25-08.26.47:161][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.25-08.26.47:161][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.25-08.26.47:162][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.25-08.26.47:162][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.25-08.26.47:166][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.25-08.26.47:166][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.25-08.26.47:166][281]LogInit: FAudioDevice initialized with ID 6.
+[2024.06.25-08.26.47:166][281]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.06.25-08.26.47:166][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.25-08.26.47:173][281]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.25-08.26.47:182][281]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.25-16.26.47
+[2024.06.25-08.26.47:182][281]LogWorld: Bringing up level for play took: 0.009621
+[2024.06.25-08.26.47:190][281]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.06.25-08.26.47:196][281]PIE: Server logged in
+[2024.06.25-08.26.47:197][281]PIE: Play in editor total start time 0.152 seconds.
+[2024.06.25-08.26.49:336][331]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.96646
+[2024.06.25-08.26.49:368][332]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.932846
+[2024.06.25-08.26.49:406][333]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.897805
+[2024.06.25-08.26.49:437][334]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.865497
+[2024.06.25-08.26.49:471][335]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.830525
+[2024.06.25-08.26.49:506][336]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.798597
+[2024.06.25-08.26.49:536][337]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.765504
+[2024.06.25-08.26.49:577][338]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.731839
+[2024.06.25-08.26.49:602][339]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.698606
+[2024.06.25-08.26.49:638][340]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.665336
+[2024.06.25-08.26.49:671][341]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.631886
+[2024.06.25-08.26.49:701][342]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.598901
+[2024.06.25-08.26.49:737][343]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.565238
+[2024.06.25-08.26.49:770][344]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.531484
+[2024.06.25-08.26.49:806][345]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.497431
+[2024.06.25-08.26.49:835][346]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.46615
+[2024.06.25-08.26.49:868][347]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.431912
+[2024.06.25-08.26.49:903][348]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.398639
+[2024.06.25-08.26.49:936][349]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.365813
+[2024.06.25-08.26.49:966][350]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.332257
+[2024.06.25-08.26.50:000][351]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.29933
+[2024.06.25-08.26.50:032][352]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.265879
+[2024.06.25-08.26.50:065][353]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.232111
+[2024.06.25-08.26.50:099][354]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.19795
+[2024.06.25-08.26.50:132][355]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.165595
+[2024.06.25-08.26.50:167][356]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.131932
+[2024.06.25-08.26.50:198][357]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.09898
+[2024.06.25-08.26.50:232][358]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.065865
+[2024.06.25-08.26.50:264][359]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.032718
+[2024.06.25-08.26.50:298][360]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.999648
+[2024.06.25-08.26.50:331][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.965805
+[2024.06.25-08.26.50:366][362]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.932506
+[2024.06.25-08.26.50:400][363]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.898233
+[2024.06.25-08.26.50:434][364]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.865093
+[2024.06.25-08.26.50:467][365]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.831563
+[2024.06.25-08.26.50:498][366]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.79901
+[2024.06.25-08.26.50:530][367]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.766445
+[2024.06.25-08.26.50:566][368]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.732879
+[2024.06.25-08.26.50:600][369]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.698544
+[2024.06.25-08.26.50:631][370]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.666115
+[2024.06.25-08.26.50:668][371]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.629972
+[2024.06.25-08.26.50:700][372]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.598716
+[2024.06.25-08.26.50:732][373]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.56568
+[2024.06.25-08.26.50:767][374]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.531961
+[2024.06.25-08.26.50:800][375]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.49884
+[2024.06.25-08.26.50:831][376]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.466216
+[2024.06.25-08.26.50:867][377]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.431987
+[2024.06.25-08.26.50:899][378]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.399156
+[2024.06.25-08.26.50:933][379]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.364996
+[2024.06.25-08.26.50:964][380]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.332999
+[2024.06.25-08.26.50:999][381]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.299217
+[2024.06.25-08.26.51:033][382]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.265924
+[2024.06.25-08.26.51:064][383]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.232713
+[2024.06.25-08.26.51:101][384]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.198214
+[2024.06.25-08.26.51:133][385]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.165605
+[2024.06.25-08.26.51:164][386]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.132413
+[2024.06.25-08.26.51:199][387]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.09859
+[2024.06.25-08.26.51:233][388]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.065584
+[2024.06.25-08.26.51:264][389]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.032742
+[2024.06.25-08.26.51:299][390]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.999337
+[2024.06.25-08.26.51:332][391]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.965504
+[2024.06.25-08.26.51:366][392]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.931898
+[2024.06.25-08.26.51:400][393]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.898147
+[2024.06.25-08.26.51:434][394]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.865159
+[2024.06.25-08.26.51:469][395]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.831612
+[2024.06.25-08.26.51:500][396]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.798974
+[2024.06.25-08.26.51:534][397]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.766128
+[2024.06.25-08.26.51:568][398]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.733051
+[2024.06.25-08.26.51:598][399]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.699434
+[2024.06.25-08.26.51:633][400]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.666386
+[2024.06.25-08.26.51:666][401]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.632796
+[2024.06.25-08.26.51:698][402]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.599416
+[2024.06.25-08.26.51:731][403]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.566615
+[2024.06.25-08.26.51:765][404]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.532774
+[2024.06.25-08.26.51:798][405]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.499709
+[2024.06.25-08.26.51:830][406]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.466351
+[2024.06.25-08.26.51:867][407]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.431913
+[2024.06.25-08.26.51:900][408]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.398039
+[2024.06.25-08.26.51:932][409]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.36549
+[2024.06.25-08.26.51:967][410]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.331917
+[2024.06.25-08.26.51:998][411]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.299091
+[2024.06.25-08.26.52:033][412]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.26563
+[2024.06.25-08.26.52:064][413]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.232769
+[2024.06.25-08.26.52:099][414]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.198422
+[2024.06.25-08.26.52:133][415]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.165191
+[2024.06.25-08.26.52:165][416]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.13252
+[2024.06.25-08.26.52:200][417]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.098645
+[2024.06.25-08.26.52:232][418]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.066432
+[2024.06.25-08.26.52:264][419]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.033129
+[2024.06.25-08.26.52:299][420]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.001269
+[2024.06.25-08.26.52:933][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.967387
+[2024.06.25-08.26.52:933][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] X=0.000 Y=0.000 Z=0.000
+[2024.06.25-08.26.52:934][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] P=0.000000 Y=0.000000 R=0.000000
+[2024.06.25-08.26.52:937][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.934773
+[2024.06.25-08.26.52:965][440]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.901526
+[2024.06.25-08.26.53:000][441]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.867396
+[2024.06.25-08.26.53:031][442]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.836001
+[2024.06.25-08.26.53:064][443]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.802715
+[2024.06.25-08.26.53:100][444]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.767955
+[2024.06.25-08.26.53:130][445]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.735681
+[2024.06.25-08.26.53:170][446]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.699222
+[2024.06.25-08.26.53:202][447]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.666698
+[2024.06.25-08.26.53:235][448]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.633083
+[2024.06.25-08.26.53:268][449]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.599352
+[2024.06.25-08.26.53:304][450]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.565515
+[2024.06.25-08.26.53:336][451]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.532512
+[2024.06.25-08.26.53:368][452]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.499713
+[2024.06.25-08.26.53:404][453]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.465487
+[2024.06.25-08.26.53:439][454]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.430588
+[2024.06.25-08.26.53:467][455]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.399322
+[2024.06.25-08.26.53:500][456]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.366694
+[2024.06.25-08.26.53:533][457]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.333701
+[2024.06.25-08.26.53:566][458]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.299924
+[2024.06.25-08.26.53:604][459]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.266893
+[2024.06.25-08.26.53:635][460]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.233011
+[2024.06.25-08.26.53:667][461]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.199663
+[2024.06.25-08.26.53:699][462]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.167232
+[2024.06.25-08.26.53:733][463]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.133541
+[2024.06.25-08.26.53:770][464]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.098276
+[2024.06.25-08.26.53:805][465]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.065019
+[2024.06.25-08.26.53:836][466]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.031281
+[2024.06.25-08.26.53:870][467]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.997166
+[2024.06.25-08.26.53:904][468]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.964669
+[2024.06.25-08.26.53:938][469]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.931575
+[2024.06.25-08.26.53:976][470]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.898669
+[2024.06.25-08.26.54:004][471]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.864237
+[2024.06.25-08.26.54:035][472]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.833959
+[2024.06.25-08.26.54:067][473]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.800626
+[2024.06.25-08.26.54:106][474]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.765417
+[2024.06.25-08.26.54:135][475]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.733297
+[2024.06.25-08.26.54:169][476]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.699164
+[2024.06.25-08.26.54:199][477]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.667147
+[2024.06.25-08.26.54:237][478]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.634016
+[2024.06.25-08.26.54:266][479]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.59998
+[2024.06.25-08.26.54:303][480]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.566049
+[2024.06.25-08.26.54:333][481]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.53363
+[2024.06.25-08.26.54:366][482]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.50073
+[2024.06.25-08.26.54:409][483]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.464753
+[2024.06.25-08.26.54:436][484]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.431666
+[2024.06.25-08.26.54:470][485]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.398378
+[2024.06.25-08.26.54:501][486]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.366261
+[2024.06.25-08.26.54:536][487]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.334105
+[2024.06.25-08.26.54:568][488]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.299517
+[2024.06.25-08.26.54:602][489]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.266573
+[2024.06.25-08.26.54:634][490]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.233133
+[2024.06.25-08.26.54:666][491]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.200346
+[2024.06.25-08.26.54:701][492]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.166388
+[2024.06.25-08.26.54:738][493]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.131442
+[2024.06.25-08.26.54:771][494]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.097978
+[2024.06.25-08.26.54:809][495]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.065219
+[2024.06.25-08.26.54:842][496]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.031052
+[2024.06.25-08.26.54:875][497]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.99742
+[2024.06.25-08.26.54:904][498]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.964051
+[2024.06.25-08.26.54:937][499]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.931794
+[2024.06.25-08.26.54:971][500]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.897637
+[2024.06.25-08.26.55:003][501]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.865163
+[2024.06.25-08.26.55:037][502]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.831454
+[2024.06.25-08.26.55:071][503]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.798006
+[2024.06.25-08.26.55:105][504]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.764676
+[2024.06.25-08.26.55:140][505]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.729432
+[2024.06.25-08.26.55:169][506]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.698207
+[2024.06.25-08.26.55:205][507]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.66402
+[2024.06.25-08.26.55:236][508]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.631726
+[2024.06.25-08.26.55:272][509]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.597532
+[2024.06.25-08.26.55:305][510]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.564691
+[2024.06.25-08.26.55:336][511]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.531561
+[2024.06.25-08.26.55:370][512]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.498034
+[2024.06.25-08.26.55:406][513]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.463144
+[2024.06.25-08.26.55:438][514]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.429092
+[2024.06.25-08.26.55:474][515]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.395225
+[2024.06.25-08.26.55:509][516]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.359571
+[2024.06.25-08.26.55:541][517]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.326889
+[2024.06.25-08.26.55:574][518]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.29411
+[2024.06.25-08.26.55:607][519]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.261232
+[2024.06.25-08.26.55:643][520]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.226807
+[2024.06.25-08.26.55:674][521]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.194348
+[2024.06.25-08.26.55:708][522]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.161669
+[2024.06.25-08.26.55:742][523]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.127578
+[2024.06.25-08.26.55:773][524]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.09499
+[2024.06.25-08.26.55:807][525]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.0617
+[2024.06.25-08.26.55:841][526]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.02716
+[2024.06.25-08.26.55:873][527]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.005488
+[2024.06.25-08.26.56:275][539]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.968104
+[2024.06.25-08.26.56:276][539]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] X=0.000 Y=0.000 Z=0.000
+[2024.06.25-08.26.56:279][539]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] P=0.000000 Y=0.000000 R=0.000000
+[2024.06.25-08.26.56:281][539]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.936209
+[2024.06.25-08.26.56:308][540]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.901606
+[2024.06.25-08.26.56:341][541]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.86879
+[2024.06.25-08.26.56:373][542]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.836211
+[2024.06.25-08.26.56:403][543]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.803788
+[2024.06.25-08.26.56:437][544]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.770781
+[2024.06.25-08.26.56:470][545]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.737695
+[2024.06.25-08.26.56:503][546]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.704721
+[2024.06.25-08.26.56:537][547]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.670773
+[2024.06.25-08.26.56:573][548]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.63625
+[2024.06.25-08.26.56:607][549]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.602342
+[2024.06.25-08.26.56:641][550]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.568063
+[2024.06.25-08.26.56:674][551]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.535871
+[2024.06.25-08.26.56:708][552]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.502343
+[2024.06.25-08.26.56:741][553]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.469039
+[2024.06.25-08.26.56:774][554]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.434805
+[2024.06.25-08.26.56:807][555]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.402566
+[2024.06.25-08.26.56:842][556]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.368814
+[2024.06.25-08.26.56:873][557]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.335986
+[2024.06.25-08.26.56:908][558]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.301545
+[2024.06.25-08.26.56:943][559]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.269031
+[2024.06.25-08.26.56:977][560]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.235463
+[2024.06.25-08.26.57:011][561]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.201491
+[2024.06.25-08.26.57:048][562]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.16805
+[2024.06.25-08.26.57:079][563]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.133993
+[2024.06.25-08.26.57:114][564]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.097664
+[2024.06.25-08.26.57:144][565]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.066204
+[2024.06.25-08.26.57:178][566]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.033147
+[2024.06.25-08.26.57:208][567]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.000035
+[2024.06.25-08.26.57:246][568]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.967129
+[2024.06.25-08.26.57:278][569]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.933095
+[2024.06.25-08.26.57:310][570]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.89963
+[2024.06.25-08.26.57:345][571]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.86645
+[2024.06.25-08.26.57:382][572]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.832971
+[2024.06.25-08.26.57:412][573]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.800443
+[2024.06.25-08.26.57:442][574]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.767078
+[2024.06.25-08.26.57:477][575]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.734123
+[2024.06.25-08.26.57:510][576]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.700842
+[2024.06.25-08.26.57:543][577]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.667189
+[2024.06.25-08.26.57:574][578]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.634585
+[2024.06.25-08.26.57:609][579]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.600583
+[2024.06.25-08.26.57:640][580]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.567784
+[2024.06.25-08.26.57:675][581]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.534488
+[2024.06.25-08.26.57:708][582]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.501065
+[2024.06.25-08.26.57:740][583]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.46758
+[2024.06.25-08.26.57:776][584]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.434013
+[2024.06.25-08.26.57:809][585]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.400503
+[2024.06.25-08.26.57:840][586]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.367534
+[2024.06.25-08.26.57:874][587]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.334749
+[2024.06.25-08.26.57:910][588]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.300629
+[2024.06.25-08.26.57:943][589]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.267436
+[2024.06.25-08.26.57:976][590]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.23414
+[2024.06.25-08.26.58:007][591]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.200716
+[2024.06.25-08.26.58:042][592]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.166836
+[2024.06.25-08.26.58:076][593]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.13388
+[2024.06.25-08.26.58:109][594]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.100122
+[2024.06.25-08.26.58:142][595]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.067225
+[2024.06.25-08.26.58:176][596]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.033765
+[2024.06.25-08.26.58:211][597]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.998814
+[2024.06.25-08.26.58:245][598]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.965839
+[2024.06.25-08.26.58:278][599]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.932783
+[2024.06.25-08.26.58:310][600]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.899695
+[2024.06.25-08.26.58:345][601]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.866243
+[2024.06.25-08.26.58:378][602]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.8322
+[2024.06.25-08.26.58:412][603]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.799324
+[2024.06.25-08.26.58:444][604]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.76643
+[2024.06.25-08.26.58:478][605]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.731454
+[2024.06.25-08.26.58:511][606]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.699024
+[2024.06.25-08.26.58:544][607]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.666001
+[2024.06.25-08.26.58:578][608]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.632698
+[2024.06.25-08.26.58:609][609]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.599739
+[2024.06.25-08.26.58:644][610]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.566493
+[2024.06.25-08.26.58:680][611]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.532868
+[2024.06.25-08.26.58:711][612]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.499647
+[2024.06.25-08.26.58:744][613]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.466375
+[2024.06.25-08.26.58:778][614]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.431998
+[2024.06.25-08.26.58:812][615]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.398841
+[2024.06.25-08.26.58:844][616]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.366122
+[2024.06.25-08.26.58:880][617]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.332981
+[2024.06.25-08.26.58:912][618]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.299825
+[2024.06.25-08.26.58:944][619]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.266455
+[2024.06.25-08.26.58:978][620]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.233198
+[2024.06.25-08.26.59:011][621]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.199343
+[2024.06.25-08.26.59:050][622]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.16581
+[2024.06.25-08.26.59:078][623]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.132891
+[2024.06.25-08.26.59:113][624]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.098739
+[2024.06.25-08.26.59:144][625]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.06529
+[2024.06.25-08.26.59:178][626]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.03315
+[2024.06.25-08.26.59:211][627]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.00022
+[2024.06.25-08.27.01:414][693]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.96605
+[2024.06.25-08.27.01:414][693]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] X=0.000 Y=0.000 Z=0.000
+[2024.06.25-08.27.01:417][693]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] P=0.000000 Y=0.000000 R=0.000000
+[2024.06.25-08.27.01:419][693]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.9321
+[2024.06.25-08.27.01:446][694]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.89932
+[2024.06.25-08.27.01:480][695]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.865324
+[2024.06.25-08.27.01:511][696]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.83218
+[2024.06.25-08.27.01:547][697]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.798099
+[2024.06.25-08.27.01:583][698]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.763764
+[2024.06.25-08.27.01:614][699]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.731978
+[2024.06.25-08.27.01:652][700]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.697269
+[2024.06.25-08.27.01:683][701]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.664402
+[2024.06.25-08.27.01:720][702]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.631005
+[2024.06.25-08.27.01:750][703]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.598387
+[2024.06.25-08.27.01:783][704]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.565165
+[2024.06.25-08.27.01:819][705]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.530723
+[2024.06.25-08.27.01:850][706]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.498317
+[2024.06.25-08.27.01:883][707]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.465017
+[2024.06.25-08.27.01:914][708]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.431691
+[2024.06.25-08.27.01:947][709]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.398211
+[2024.06.25-08.27.01:981][710]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.363751
+[2024.06.25-08.27.02:012][711]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.331438
+[2024.06.25-08.27.02:047][712]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.297996
+[2024.06.25-08.27.02:083][713]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.263668
+[2024.06.25-08.27.02:115][714]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.231011
+[2024.06.25-08.27.02:150][715]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.195445
+[2024.06.25-08.27.02:181][716]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.164275
+[2024.06.25-08.27.02:213][717]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.131023
+[2024.06.25-08.27.02:247][718]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.09797
+[2024.06.25-08.27.02:281][719]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.064075
+[2024.06.25-08.27.02:316][720]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.030188
+[2024.06.25-08.27.02:348][721]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.998265
+[2024.06.25-08.27.02:385][722]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.96505
+[2024.06.25-08.27.02:419][723]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.928647
+[2024.06.25-08.27.02:447][724]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.898116
+[2024.06.25-08.27.02:481][725]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.864283
+[2024.06.25-08.27.02:515][726]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.83092
+[2024.06.25-08.27.02:546][727]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.798258
+[2024.06.25-08.27.02:581][728]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.764186
+[2024.06.25-08.27.02:616][729]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.730552
+[2024.06.25-08.27.02:648][730]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.698069
+[2024.06.25-08.27.02:681][731]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.664353
+[2024.06.25-08.27.02:715][732]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.630564
+[2024.06.25-08.27.02:748][733]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.597762
+[2024.06.25-08.27.02:780][734]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.565062
+[2024.06.25-08.27.02:814][735]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.531156
+[2024.06.25-08.27.02:848][736]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.49835
+[2024.06.25-08.27.02:879][737]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.464953
+[2024.06.25-08.27.02:914][738]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.431507
+[2024.06.25-08.27.02:947][739]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.398282
+[2024.06.25-08.27.02:980][740]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.36408
+[2024.06.25-08.27.03:013][741]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.33117
+[2024.06.25-08.27.03:047][742]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.297621
+[2024.06.25-08.27.03:083][743]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.264742
+[2024.06.25-08.27.03:115][744]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.230909
+[2024.06.25-08.27.03:147][745]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.198144
+[2024.06.25-08.27.03:182][746]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.164283
+[2024.06.25-08.27.03:213][747]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.131275
+[2024.06.25-08.27.03:247][748]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.097732
+[2024.06.25-08.27.03:280][749]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.06486
+[2024.06.25-08.27.03:312][750]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.032115
+[2024.06.25-08.27.03:347][751]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.998205
+[2024.06.25-08.27.03:380][752]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.965186
+[2024.06.25-08.27.03:414][753]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.931437
+[2024.06.25-08.27.03:449][754]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.897693
+[2024.06.25-08.27.03:482][755]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.863268
+[2024.06.25-08.27.03:515][756]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.83046
+[2024.06.25-08.27.03:546][757]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.79869
+[2024.06.25-08.27.03:580][758]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.765058
+[2024.06.25-08.27.03:616][759]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.731372
+[2024.06.25-08.27.03:647][760]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.698823
+[2024.06.25-08.27.03:680][761]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.66462
+[2024.06.25-08.27.03:771][762]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.606368
+[2024.06.25-08.27.03:794][763]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.551594
+[2024.06.25-08.27.03:811][764]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.532138
+[2024.06.25-08.27.03:828][765]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.516157
+[2024.06.25-08.27.03:864][766]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.483437
+[2024.06.25-08.27.03:901][767]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.449505
+[2024.06.25-08.27.03:931][768]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.416644
+[2024.06.25-08.27.03:966][769]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.383273
+[2024.06.25-08.27.03:995][770]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.350932
+[2024.06.25-08.27.04:032][771]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.317353
+[2024.06.25-08.27.04:068][772]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.282942
+[2024.06.25-08.27.04:096][773]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.250691
+[2024.06.25-08.27.04:133][774]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.217346
+[2024.06.25-08.27.04:168][775]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.182351
+[2024.06.25-08.27.04:197][776]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.150888
+[2024.06.25-08.27.04:232][777]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.117563
+[2024.06.25-08.27.04:263][778]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.083815
+[2024.06.25-08.27.04:296][779]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.051154
+[2024.06.25-08.27.04:327][780]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.017707
+[2024.06.25-08.27.04:362][781]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.016177
+[2024.06.25-08.27.05:171][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.25-08.27.05:171][804]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.25-08.27.05:172][804]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.25-08.27.05:173][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.25-08.27.05:173][804]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.25-08.27.05:206][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.25-08.27.05:218][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.25-08.27.05:263][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.25-08.27.05:263][804]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.25-08.27.05:263][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.25-08.27.05:267][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.25-08.27.05:280][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.25-08.27.05:291][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2024.06.25-08.27.05:576][805]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.06.25-08.27.36:355][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.25-08.27.36:717][237]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.06.25-08.27.36:719][237]LogSavePackage: Moving '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Saved/BP_Weapon_ComponentD301926844E171745DF98083BAEED9B4.tmp' to '../../../../../../Users/jingj/OneDrive/Documents/Unreal Projects/test_again/iwp-project/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.06.25-08.27.36:776][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 421 ms (total: 4.86 sec)
+[2024.06.25-08.27.36:784][237]AssetCheck: New page: Asset Save: BP_Weapon_Component
+[2024.06.25-08.27.36:784][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.06.25-08.27.37:796][250]BlueprintLog: New page: Compile BP_Weapon_Component
+[2024.06.25-08.27.37:891][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.06.25-08.27.41:272][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.25-08.27.41:295][300]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.25-08.27.41:295][300]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.06.25-08.27.41:299][300]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 82 ms)
+[2024.06.25-08.27.41:299][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.25-08.27.41:299][300]PIE: New page: PIE session: FirstPersonMap (26 Jun 2024, 12:27:41 am)
+[2024.06.25-08.27.41:299][300]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.25-08.27.41:315][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015699s)
+[2024.06.25-08.27.41:315][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.015772s)
+[2024.06.25-08.27.41:354][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.06.25-08.27.41:357][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.25-08.27.41:357][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.25-08.27.41:358][300]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.06.25-08.27.41:360][300]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.25-08.27.41:360][300]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.25-08.27.41:360][300]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.25-08.27.41:360][300]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.25-08.27.41:363][300]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.06.25-08.27.41:363][300]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 259 ms)
+[2024.06.25-08.27.41:363][300]LogPlayLevel: PIE: World Init took: (0.006215s)
+[2024.06.25-08.27.41:363][300]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.25-08.27.41:363][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.25-08.27.41:363][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.25-08.27.41:364][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.25-08.27.41:364][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.25-08.27.41:364][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.25-08.27.41:370][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.25-08.27.41:426][300]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jabra Elite 4 Active)
+[2024.06.25-08.27.41:427][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.25-08.27.41:427][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.25-08.27.41:427][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.25-08.27.41:428][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.06.25-08.27.41:428][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.06.25-08.27.41:431][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.06.25-08.27.41:433][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.06.25-08.27.41:433][300]LogInit: FAudioDevice initialized with ID 7.
+[2024.06.25-08.27.41:433][300]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.06.25-08.27.41:433][300]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.25-08.27.41:437][300]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.25-08.27.41:450][300]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.06.25-16.27.41
+[2024.06.25-08.27.41:450][300]LogWorld: Bringing up level for play took: 0.012320
+[2024.06.25-08.27.41:455][300]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.06.25-08.27.41:460][300]PIE: Server logged in
+[2024.06.25-08.27.41:462][300]PIE: Play in editor total start time 0.167 seconds.
+[2024.06.25-08.27.44:030][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.966091
+[2024.06.25-08.27.44:030][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] X=0.000 Y=0.000 Z=0.000
+[2024.06.25-08.27.44:033][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] P=0.000000 Y=0.000000 R=0.000000
+[2024.06.25-08.27.44:035][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.932182
+[2024.06.25-08.27.44:060][362]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.898927
+[2024.06.25-08.27.44:094][363]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.865075
+[2024.06.25-08.27.44:123][364]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.835177
+[2024.06.25-08.27.44:155][365]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.801503
+[2024.06.25-08.27.44:195][366]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.765392
+[2024.06.25-08.27.44:230][367]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.729716
+[2024.06.25-08.27.44:263][368]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.696098
+[2024.06.25-08.27.44:298][369]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.661721
+[2024.06.25-08.27.44:330][370]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.629544
+[2024.06.25-08.27.44:365][371]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.595339
+[2024.06.25-08.27.44:396][372]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.563443
+[2024.06.25-08.27.44:434][373]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.526364
+[2024.06.25-08.27.44:467][374]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.492665
+[2024.06.25-08.27.44:501][375]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.459062
+[2024.06.25-08.27.44:540][376]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.421192
+[2024.06.25-08.27.44:570][377]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.388292
+[2024.06.25-08.27.44:610][378]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.350091
+[2024.06.25-08.27.44:647][379]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.31495
+[2024.06.25-08.27.44:682][380]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.277773
+[2024.06.25-08.27.44:716][381]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.243232
+[2024.06.25-08.27.44:756][382]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.208595
+[2024.06.25-08.27.44:789][383]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.172297
+[2024.06.25-08.27.44:824][384]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.136502
+[2024.06.25-08.27.44:857][385]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.103377
+[2024.06.25-08.27.44:893][386]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.067535
+[2024.06.25-08.27.44:926][387]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.03412
+[2024.06.25-08.27.44:964][388]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.999929
+[2024.06.25-08.27.44:999][389]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.963244
+[2024.06.25-08.27.45:031][390]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.930959
+[2024.06.25-08.27.45:068][391]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.893824
+[2024.06.25-08.27.45:101][392]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.860228
+[2024.06.25-08.27.45:136][393]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.825423
+[2024.06.25-08.27.45:167][394]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.792345
+[2024.06.25-08.27.45:203][395]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.756765
+[2024.06.25-08.27.45:238][396]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.724198
+[2024.06.25-08.27.45:274][397]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.689568
+[2024.06.25-08.27.45:308][398]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.655681
+[2024.06.25-08.27.45:350][399]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.614638
+[2024.06.25-08.27.45:386][400]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.576841
+[2024.06.25-08.27.45:423][401]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.540382
+[2024.06.25-08.27.45:459][402]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.503413
+[2024.06.25-08.27.45:488][403]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.470337
+[2024.06.25-08.27.45:519][404]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.438891
+[2024.06.25-08.27.45:552][405]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.406843
+[2024.06.25-08.27.45:588][406]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.372439
+[2024.06.25-08.27.45:621][407]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.339567
+[2024.06.25-08.27.45:659][408]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.303993
+[2024.06.25-08.27.45:694][409]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.270854
+[2024.06.25-08.27.45:726][410]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.236721
+[2024.06.25-08.27.45:758][411]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.203654
+[2024.06.25-08.27.45:788][412]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.17116
+[2024.06.25-08.27.45:824][413]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.137594
+[2024.06.25-08.27.45:858][414]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.101841
+[2024.06.25-08.27.45:890][415]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.069048
+[2024.06.25-08.27.45:925][416]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.034615
+[2024.06.25-08.27.45:958][417]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.001269
+[2024.06.25-08.27.45:993][418]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.96686
+[2024.06.25-08.27.46:027][419]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.932919
+[2024.06.25-08.27.46:061][420]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.89877
+[2024.06.25-08.27.46:095][421]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.866412
+[2024.06.25-08.27.46:130][422]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.832517
+[2024.06.25-08.27.46:167][423]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.796492
+[2024.06.25-08.27.46:195][424]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.764305
+[2024.06.25-08.27.46:230][425]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.73048
+[2024.06.25-08.27.46:263][426]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.696956
+[2024.06.25-08.27.46:296][427]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.663161
+[2024.06.25-08.27.46:332][428]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.628125
+[2024.06.25-08.27.46:374][429]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.586504
+[2024.06.25-08.27.46:401][430]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.555987
+[2024.06.25-08.27.46:435][431]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.523688
+[2024.06.25-08.27.46:470][432]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.488841
+[2024.06.25-08.27.46:500][433]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.456664
+[2024.06.25-08.27.46:534][434]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.423641
+[2024.06.25-08.27.46:567][435]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.390317
+[2024.06.25-08.27.46:605][436]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.35482
+[2024.06.25-08.27.46:636][437]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.322521
+[2024.06.25-08.27.46:672][438]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.287671
+[2024.06.25-08.27.46:707][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.253302
+[2024.06.25-08.27.46:740][440]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.218215
+[2024.06.25-08.27.46:774][441]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.185008
+[2024.06.25-08.27.46:808][442]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.150831
+[2024.06.25-08.27.46:842][443]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.11784
+[2024.06.25-08.27.46:874][444]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.085103
+[2024.06.25-08.27.46:909][445]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.051628
+[2024.06.25-08.27.46:942][446]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.017859
+[2024.06.25-08.27.46:975][447]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.015666
+[2024.06.25-08.27.47:387][459]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.966416
+[2024.06.25-08.27.47:387][459]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] X=0.000 Y=0.000 Z=0.000
+[2024.06.25-08.27.47:392][459]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] P=0.000000 Y=0.000000 R=0.000000
+[2024.06.25-08.27.47:394][459]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.932833
+[2024.06.25-08.27.47:419][460]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.896875
+[2024.06.25-08.27.47:450][461]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.869376
+[2024.06.25-08.27.47:482][462]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.834659
+[2024.06.25-08.27.47:511][463]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.802287
+[2024.06.25-08.27.47:546][464]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.768381
+[2024.06.25-08.27.47:584][465]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.731879
+[2024.06.25-08.27.47:616][466]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.699333
+[2024.06.25-08.27.47:652][467]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.665
+[2024.06.25-08.27.47:683][468]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.632736
+[2024.06.25-08.27.47:720][469]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.595999
+[2024.06.25-08.27.47:757][470]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.563525
+[2024.06.25-08.27.47:789][471]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.52938
+[2024.06.25-08.27.47:826][472]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.491195
+[2024.06.25-08.27.47:865][473]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.452309
+[2024.06.25-08.27.47:900][474]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.416579
+[2024.06.25-08.27.47:936][475]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.380105
+[2024.06.25-08.27.47:970][476]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.345856
+[2024.06.25-08.27.48:011][477]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.311956
+[2024.06.25-08.27.48:054][478]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.274124
+[2024.06.25-08.27.48:077][479]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.238458
+[2024.06.25-08.27.48:116][480]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.205838
+[2024.06.25-08.27.48:150][481]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.167247
+[2024.06.25-08.27.48:182][482]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.136054
+[2024.06.25-08.27.48:216][483]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.101862
+[2024.06.25-08.27.48:248][484]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.068978
+[2024.06.25-08.27.48:280][485]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.035916
+[2024.06.25-08.27.48:314][486]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 2.001992
+[2024.06.25-08.27.48:348][487]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.968556
+[2024.06.25-08.27.48:379][488]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.936087
+[2024.06.25-08.27.48:416][489]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.901346
+[2024.06.25-08.27.48:451][490]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.868042
+[2024.06.25-08.27.48:487][491]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.833973
+[2024.06.25-08.27.48:514][492]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.801733
+[2024.06.25-08.27.48:549][493]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.768654
+[2024.06.25-08.27.48:581][494]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.734749
+[2024.06.25-08.27.48:617][495]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.700481
+[2024.06.25-08.27.48:649][496]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.668248
+[2024.06.25-08.27.48:681][497]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.635372
+[2024.06.25-08.27.48:713][498]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.602201
+[2024.06.25-08.27.48:747][499]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.568938
+[2024.06.25-08.27.48:782][500]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.534757
+[2024.06.25-08.27.48:813][501]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.502404
+[2024.06.25-08.27.48:813][501]LogDerivedDataCache: C:/Users/jingj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.735 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 693 files in 1194 folders with total size 14 MiB.
+[2024.06.25-08.27.48:847][502]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.469056
+[2024.06.25-08.27.48:881][503]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.435867
+[2024.06.25-08.27.48:914][504]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.402777
+[2024.06.25-08.27.48:946][505]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.369695
+[2024.06.25-08.27.48:982][506]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.335749
+[2024.06.25-08.27.49:018][507]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.300804
+[2024.06.25-08.27.49:052][508]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.265998
+[2024.06.25-08.27.49:085][509]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.234423
+[2024.06.25-08.27.49:118][510]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.201136
+[2024.06.25-08.27.49:150][511]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.166835
+[2024.06.25-08.27.49:184][512]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.133571
+[2024.06.25-08.27.49:217][513]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.100489
+[2024.06.25-08.27.49:249][514]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.067353
+[2024.06.25-08.27.49:282][515]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.034073
+[2024.06.25-08.27.49:318][516]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 1.000335
+[2024.06.25-08.27.49:351][517]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.96643
+[2024.06.25-08.27.49:394][518]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.93149
+[2024.06.25-08.27.49:430][519]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.897331
+[2024.06.25-08.27.49:457][520]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.864102
+[2024.06.25-08.27.49:483][521]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.831815
+[2024.06.25-08.27.49:521][522]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.795805
+[2024.06.25-08.27.49:557][523]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.763554
+[2024.06.25-08.27.49:593][524]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.726362
+[2024.06.25-08.27.49:630][525]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.690933
+[2024.06.25-08.27.49:659][526]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.658647
+[2024.06.25-08.27.49:692][527]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.625409
+[2024.06.25-08.27.49:727][528]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.592409
+[2024.06.25-08.27.49:758][529]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.559496
+[2024.06.25-08.27.49:796][530]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.525413
+[2024.06.25-08.27.49:831][531]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.492362
+[2024.06.25-08.27.49:863][532]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.459244
+[2024.06.25-08.27.49:897][533]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.423508
+[2024.06.25-08.27.49:927][534]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.392372
+[2024.06.25-08.27.49:960][535]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.359555
+[2024.06.25-08.27.49:994][536]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.325253
+[2024.06.25-08.27.50:031][537]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.292339
+[2024.06.25-08.27.50:062][538]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.258102
+[2024.06.25-08.27.50:094][539]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.225245
+[2024.06.25-08.27.50:125][540]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.192581
+[2024.06.25-08.27.50:159][541]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.158972
+[2024.06.25-08.27.50:194][542]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.12579
+[2024.06.25-08.27.50:225][543]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.092208
+[2024.06.25-08.27.50:257][544]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.058975
+[2024.06.25-08.27.50:291][545]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 0.02541
+[2024.06.25-08.27.50:326][546]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] -0.008326
+[2024.06.25-08.27.51:421][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.25-08.27.51:421][578]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.06.25-08.27.51:422][578]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.25-08.27.51:424][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.25-08.27.51:424][578]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.06.25-08.27.51:482][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.25-08.27.51:496][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.25-08.27.51:556][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.25-08.27.51:557][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.25-08.27.51:557][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.25-08.27.51:563][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.25-08.27.51:578][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.25-08.27.51:588][578]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.06.25-08.27.51:897][579]LogPlayLevel: Display: Destroying online subsystem :Context_15
