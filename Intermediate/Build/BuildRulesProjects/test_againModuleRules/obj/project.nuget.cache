@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPfsusQ+tso=",
+  "dgSpecHash": "URmlBxHPfjQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Intermediate\\Build\\BuildRulesProjects\\test_againModuleRules\\test_againModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Intermediate\\Build\\BuildRulesProjects\\test_againModuleRules\\test_againModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jingj\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\jingj\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

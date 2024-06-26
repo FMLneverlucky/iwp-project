@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\",
+  "WorkspaceRootPath": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:Source\\test_again\\Private\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:Source\\test_again\\Private\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "shadertoolsconfig.json",
-              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\shadertoolsconfig.json",
+              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\shadertoolsconfig.json",
               "RelativeDocumentMoniker": "shadertoolsconfig.json",
-              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\shadertoolsconfig.json",
+              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\shadertoolsconfig.json",
               "RelativeToolTip": "shadertoolsconfig.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-10T06:35:22.499Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "enemy.h",
-              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.h",
-              "RelativeDocumentMoniker": "Source\\test_again\\Private\\enemy.h",
-              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.h",
-              "RelativeToolTip": "Source\\test_again\\Private\\enemy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-06T08:44:20.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.cpp",
-              "RelativeDocumentMoniker": "Source\\test_again\\Private\\enemy.cpp",
-              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\Source\\test_again\\Private\\enemy.cpp",
-              "RelativeToolTip": "Source\\test_again\\Private\\enemy.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-06T08:44:23.81Z",
               "EditorCaption": ""
             }
           ]
