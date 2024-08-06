@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Public\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:Source\\test_again\\Public\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Private\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:Source\\test_again\\Private\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63D2F57-B153-378A-AF83-8032BBF6A73E}|Intermediate\\ProjectFiles\\UE5.vcxproj|C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\Serialization\\ArchiveProxy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB957881-6FEE-3EC3-A3B8-9C09B104C526}|Intermediate\\ProjectFiles\\test_again.vcxproj|solutionrelative:shadertoolsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,11 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "shadertoolsconfig.json",
               "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\shadertoolsconfig.json",
               "RelativeDocumentMoniker": "shadertoolsconfig.json",
@@ -27,7 +38,43 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-10T06:35:22.499Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchiveProxy.h",
+              "DocumentMoniker": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\Serialization\\ArchiveProxy.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\Serialization\\ArchiveProxy.h",
+              "ToolTip": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\Serialization\\ArchiveProxy.h [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Core\\Public\\Serialization\\ArchiveProxy.h [Read Only]",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAqwKYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T05:05:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityManager.cpp",
+              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Private\\EntityManager.cpp",
+              "RelativeDocumentMoniker": "Source\\test_again\\Private\\EntityManager.cpp",
+              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Private\\EntityManager.cpp",
+              "RelativeToolTip": "Source\\test_again\\Private\\EntityManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T04:59:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityManager.h",
+              "DocumentMoniker": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Public\\EntityManager.h",
+              "RelativeDocumentMoniker": "Source\\test_again\\Public\\EntityManager.h",
+              "ToolTip": "C:\\Users\\jingj\\OneDrive\\Documents\\Unreal Projects\\test_again\\iwp-project\\Source\\test_again\\Public\\EntityManager.h",
+              "RelativeToolTip": "Source\\test_again\\Public\\EntityManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T04:59:53.011Z",
               "EditorCaption": ""
             }
           ]

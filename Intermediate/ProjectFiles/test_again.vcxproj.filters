@@ -13,6 +13,7 @@
     </None>
     <None Include="..\..\.editorconfig" />
     <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\shadertoolsconfig.json" />
     <None Include="..\..\UpgradeLog.htm" />
@@ -29,6 +30,9 @@
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
@@ -54,6 +58,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\test_again\Private\enemy.h">
       <Filter>Source\test_again\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\test_again\Private\EntityManager.cpp">
+      <Filter>Source\test_again\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\test_again\Public">
+      <UniqueIdentifier>{24A75292-334E-3EE5-A308-547589C4F219}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\test_again\Public\EntityManager.h">
+      <Filter>Source\test_again\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

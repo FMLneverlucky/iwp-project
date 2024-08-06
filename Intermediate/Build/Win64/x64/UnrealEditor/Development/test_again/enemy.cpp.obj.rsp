@@ -1,11 +1,11 @@
-"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Source\test_again\Private\enemy.cpp"
-/FI"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\Definitions.test_again.h"
-/Yu"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.cpp.obj"
-/sourceDependencies "C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.cpp.dep.json"
-@"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\test_again.Shared.rsp"
+"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Source\test_again\Private\enemy.cpp"
+/FI"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\Definitions.test_again.h"
+/Yu"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\test_againEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.cpp.obj"
+/sourceDependencies "C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\enemy.cpp.dep.json"
+@"C:\Users\jingj\OneDrive\Documents\Unreal Projects\test_again\iwp-project\Intermediate\Build\Win64\x64\UnrealEditor\Development\test_again\test_again.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
